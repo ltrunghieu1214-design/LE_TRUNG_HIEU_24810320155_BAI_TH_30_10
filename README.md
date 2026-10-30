@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI TẬP THỰC HÀNH C# WINFORMS (3-TIER ARCHITECTURE)
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-* **Họ và tên sinh viên:** Nguyễn Hữu Trường
-* **Mã sinh viên:** 24810320290
+* **Họ và tên sinh viên:** Lê Trung Hiếu
+* **Mã sinh viên:** 24810320155
 * **Lớp / Chuyên ngành:** D19QTANM1 - An ninh mạng
 * **Tên Bài tập:** 
   * Bài 5.3: Hệ thống Quản lý Quán Cafe & Bán hàng (POS Cafe System)
